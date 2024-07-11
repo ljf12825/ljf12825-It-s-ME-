@@ -1,3 +1,4 @@
+-#For Everyone
 - 👋 Hi, I’m @ljf12825
 - 👀 I’m interested in singing dancing, rap and playing basketball  //just kidding
 - 🌱 I’m currently learning C++
